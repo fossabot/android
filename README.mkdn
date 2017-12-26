@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2Fandroid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2Fandroid?ref=badge_shield)
+
 LineageOS
 ===========
 
@@ -50,3 +52,7 @@ All supported devices are built weekly and periodically as changes are committed
 You can view the current build statuses at [LineageOS Jenkins](https://jenkins.lineageos.org/)
 
 Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2Fandroid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2Fandroid?ref=badge_large)
